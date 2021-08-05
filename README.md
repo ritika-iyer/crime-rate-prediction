@@ -1,7 +1,7 @@
 # crime-rate-prediction
 
 
-Crime rate prediction using ML models to predict crime rates in different places and the features influencing it the most.
+Crime Rate Prediction using ML models to predict crime rates in different places and the features influencing it the most.
 Models used are : Decision Trees, Random Forest, Naive Bayes and Linear Regression.
 Comparison of models to see which one provides best results using parameters like precision, accuracy, etc.
 
